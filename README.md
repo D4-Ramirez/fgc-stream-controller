@@ -1,4 +1,4 @@
-# fgc-score-app
+# fgc-stream-controller
 
 ## Build Setup
 
